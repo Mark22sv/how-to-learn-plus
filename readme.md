@@ -4,4 +4,4 @@
 
 Использованы технологии: HTML, CSS
 
-[Ссылка на GitHub pages](https://mark22sv.github.io/how-to-learn-plus/)
+[Ссылка на GitHub pages](https://mark22sv.github.io/first-project/)
