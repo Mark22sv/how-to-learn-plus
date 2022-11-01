@@ -3,9 +3,7 @@
   color: white;
   text-decoration: none;
   list-style-type: none;
-}
-.footer__column-link:nth-of-type(3n) {
-  margin: 0;
+
 }
 .footer__column-link:hover {
   opacity: 0.5;
